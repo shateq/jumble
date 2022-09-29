@@ -12,12 +12,16 @@ And it is WIP
 
 ```go
 import (
+	"fmt"
 	"github.com/shateq/jumble"
 )
 
 fun do() {
-
+	fmt.Println(
+		jumble.Jumble("Your long sentence")
+	)
 }
 
+```
 ### License
 Project is licensed under MIT. Check `LICENSE` file for details.
