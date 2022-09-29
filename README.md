@@ -1,13 +1,22 @@
 # Tranposed Letter Effect 
 
 ... was an inspiration to create this library.
-As a result you can **jumble and cipher** strings in various ways.
 
-# WIP
+As a result you can **jumble and cipher** strings in various ways. 
 
-### Actions
+And it is WIP
 
+## Get started
+`go get github.com/shateq/jumble`
 
-#### Test locally
+```go
+import (
+	"github.com/shateq/jumble"
+)
 
-`go run .\test\test.go`
+fun do() {
+
+}
+
+### License
+Project is licensed under MIT. Check `LICENSE` file for details.
