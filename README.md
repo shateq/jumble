@@ -1,4 +1,5 @@
 # Tranposed Letter Effect 
+[![CI](https://github.com/shateq/jumble/actions/workflows/test.yml/badge.svg)](https://github.com/shateq/jumble/actions/workflows/test.yml)
 
 ... was an inspiration to create this library.
 
